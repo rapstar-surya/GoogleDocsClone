@@ -1,0 +1,19 @@
+.secondNavbar_mainDiv{
+    display: flex;
+    align-items: center;
+    border: 1px solid;
+    /* padding: .5rem; */
+    border-radius: 2rem;
+    height: 3.2rem;
+    gap: 1rem;
+  
+}
+.secondNavbar_mainDiv > .MuiSvgIcon-root{
+    font-size: 2rem;
+}
+/* 
+.vl{
+    border-left: 6px solid green;
+    height: 4.5rem;
+    
+  } */

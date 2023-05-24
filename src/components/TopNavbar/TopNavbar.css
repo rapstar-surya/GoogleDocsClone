@@ -1,0 +1,54 @@
+.navbar-parentsDiv{
+    display: flex;
+    align-items: center;
+   
+}
+.navbar-left-icon{
+    margin-right: 1rem;
+}
+
+.secondDiv{
+    display: flex;
+    align-items: center;
+    margin-bottom: -2rem;
+}
+.secondDiv h3{
+    font-size: 1.5rem;
+}
+.secondDiv > .MuiSvgIcon-root{
+    margin: 0.5rem;
+    font-size: 1.2rem;
+}
+.tools{
+    display: flex;
+    gap: 1rem;
+}
+.navbarRightIcons{
+    display: flex;
+    align-items: center;
+    margin-left: 35%;
+    gap: 1rem;
+}
+/* .navbarRightIcons svg{
+    font-size: 2rem;
+} */
+.lock{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid;
+    border-radius: 1rem;
+    height: 2.5rem;
+    width: 6rem;
+}
+.navbarRightIcons > .MuiSvgIcon-root{
+    font-size: 2rem;
+}
+
+.profile{
+    border: 1px solid red;
+    border-radius: 50%;
+    width: 2.5rem;
+    height: 2.5rem;
+    background-color: blue;
+}
